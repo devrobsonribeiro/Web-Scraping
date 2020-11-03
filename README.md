@@ -1,7 +1,8 @@
 # Web Scraping
  Extraindo dados da web com DataScience e Machine Learning
 ---
-##Etapas
+#Etapas
+---
 # 1. Pegar os dados de um site HTML a partir da URL
 # 2. Tratar os dados HTML - BeautifulSoup
 # 3. Mostrar o texto (conteúdo) completo da página acessada
